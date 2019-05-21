@@ -1,0 +1,7 @@
+organization=guenyoo-github
+projectKey=guenyoo_sonarcloudtest
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.25269
+dashboardUrl=https://sonarcloud.io/dashboard?id=guenyoo_sonarcloudtest
+ceTaskId=AWrbNOjTOR_DEgo-pxRL
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWrbNOjTOR_DEgo-pxRL
